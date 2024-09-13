@@ -63,7 +63,7 @@ No installation is required. To view the portfolio:
 Alternatively, visit the live site at [turriettaa.github.io/Employee-Payroll-Tracker](https://turriettaa.github.io/Employee-Payroll-Tracker).
 ## Screenshot
 
-![Employee Payroll Tracker Screenshot](Screenshot 2024-09-13 131350.png)
+<img src="Screenshot 2024-09-13 131350.png" alt="Site Screenshot">
 
 ## Contributing
 
