@@ -53,6 +53,15 @@ The following key functions were implemented to meet the project requirements:
 
 These functions work in conjunction with the provided `displayEmployees()` and `trackEmployeeData()` functions to create a fully functional payroll tracking system.
 
+## Installation
+
+No installation is required. To view the portfolio:
+
+1. Clone this repository to your local machine.
+2. Open the `index.html` file in a web browser.
+
+Alternatively, visit the live site at [turriettaa.github.io/Employee-Payroll-Tracker](https://turriettaa.github.io/Employee-Payroll-Tracker).
+
 ## Contributing
 
 This project is part of a coding bootcamp assignment and is not open for contributions. However, feedback and suggestions are welcome.
