@@ -77,3 +77,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 - This project was completed as part of the [UC Berkeley Coding Bootcamp] curriculum.
 - Starter code was provided by the bootcamp, with key functionalities implemented by [Alejandro Turrietta].
+- Assisted with Amazon Q
